@@ -1,5 +1,16 @@
 phd:
 
+- name: Yasith Jayawardana 
+  homepage: https://yasith.dev/
+  twitter_handle: yasithmilinda
+  google_scholar_id: zkvNhE0AAAAJ
+  graduation_year: 2024
+  thesis:
+    title: "Streaminghub - A Realtime Biosignal Processing Framework for Lab Scale Experimentation"
+    link: https://digitalcommons.odu.edu/computerscience_etds/182/
+  wrapup_blog_post: https://ws-dl.blogspot.com/2024/10/2024-10-03-end-of-long-journey.html
+  initial_employment: Georgia Institute of Technology
+  
 - name: Gavindya Jayawardena 
   homepage: https://gavindya.github.io/
   twitter_handle: Gavindya2
